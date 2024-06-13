@@ -1,0 +1,7 @@
+{
+  "name": "pdfApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
